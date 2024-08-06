@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">analysis of airbnb's business model</h1>
+<h1 align="center">ANALYSIS OF AIRBNB'S BUSINESS MODEL</h1>
 </div>
 <img src="./img/airbnb project.jpg">
 
